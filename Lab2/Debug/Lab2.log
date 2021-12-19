@@ -1,0 +1,182 @@
+﻿  Lab2.cpp
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Menus.cpp
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Menus.cpp(22,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Menus.cpp(35,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Menus.cpp(354,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(216,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(214): message : во время компиляции функции-члена класс шаблон "Vector<double> Vector<double>::Where(bool (__cdecl *)(R))"
+          with
+          [
+              R=double
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Menus.cpp(339): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vector<double> Vector<double>::Where(bool (__cdecl *)(R))"
+          with
+          [
+              R=double
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Menus.cpp(225): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<double>"
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(223,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(207,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(205): message : во время компиляции функции-члена класс шаблон "R Vector<R>::reduce(R (__cdecl *)(R,R),R)"
+          with
+          [
+              R=double
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Menus.cpp(333): message : выполняется компиляция ссылки на экземпляр шаблон функции "R Vector<R>::reduce(R (__cdecl *)(R,R),R)"
+          with
+          [
+              R=double
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(197,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(194): message : во время компиляции функции-члена класс шаблон "Vector<double> Vector<double>::Map(R (__cdecl *)(R))"
+          with
+          [
+              R=double
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Menus.cpp(324): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vector<double> Vector<double>::Map(R (__cdecl *)(R))"
+          with
+          [
+              R=double
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(159,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(150): message : во время компиляции функции-члена класс шаблон "R Vector<R>::operator *(Vector<R>)"
+          with
+          [
+              R=double
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Menus.cpp(305): message : выполняется компиляция ссылки на экземпляр шаблон функции "R Vector<R>::operator *(Vector<R>)"
+          with
+          [
+              R=double
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(165,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(105,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(96): message : во время компиляции функции-члена класс шаблон "Vector<double> Vector<double>::operator -(Vector<double>)"
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Menus.cpp(276): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vector<double> Vector<double>::operator -(Vector<double>)"
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(111,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(51,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(40): message : во время компиляции функции-члена класс шаблон "Vector<double> Vector<double>::operator +(Vector<double>)"
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Menus.cpp(246): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vector<double> Vector<double>::operator +(Vector<double>)"
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(57,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(200,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(199): message : во время компиляции функции-члена класс шаблон "void Dictionary<int,R>::Print(void)"
+          with
+          [
+              R=double
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Menus.cpp(227): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Dictionary<int,R>::Print(void)"
+          with
+          [
+              R=double
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(8): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Dictionary<int,R>"
+          with
+          [
+              R=double
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(190,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(188): message : во время компиляции функции-члена класс шаблон "R Dictionary<int,R>::GetVal(T)"
+          with
+          [
+              R=double,
+              T=int
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(178,9): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(175): message : во время компиляции функции-члена класс шаблон "bool Dictionary<int,R>::ContainsKey(T)"
+          with
+          [
+              R=double,
+              T=int
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(189): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Dictionary<int,R>::ContainsKey(T)"
+          with
+          [
+              R=double,
+              T=int
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(152,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(150): message : во время компиляции функции-члена класс шаблон "size_t Dictionary<int,R>::Count(void)"
+          with
+          [
+              R=double
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(136,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(135): message : во время компиляции функции-члена класс шаблон "Dictionary<int,R>::Dictionary(const Dictionary<int,R> &)"
+          with
+          [
+              R=double
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Menus.cpp(352): message : выполняется компиляция ссылки на экземпляр шаблон функции "Dictionary<int,R>::Dictionary(const Dictionary<int,R> &)"
+          with
+          [
+              R=double
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(11,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(9): message : во время компиляции функции-члена класс шаблон "int Vector<double>::Maxindex(void)"
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(152): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Vector<double>::Maxindex(void)"
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(129,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(128): message : во время компиляции функции-члена класс шаблон "Dictionary<int,R>::Dictionary(Dictionary<int,R> &)"
+          with
+          [
+              R=double
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Vector.h(28): message : выполняется компиляция ссылки на экземпляр шаблон функции "Dictionary<int,R>::Dictionary(Dictionary<int,R> &)"
+          with
+          [
+              R=double
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(74,9): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(72): message : во время компиляции функции-члена класс шаблон "void Dictionary<int,R>::Append(Pair<T,R>)"
+          with
+          [
+              R=double,
+              T=int
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(148): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Dictionary<int,R>::Append(Pair<T,R>)"
+          with
+          [
+              R=double,
+              T=int
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(84,13): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(108,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Cache.h(65,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Cache.h(63): message : во время компиляции функции-члена класс шаблон "void Cache<Person>::Print(void)"
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Cache.h(91): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Cache<Person>::Print(void)"
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Cache.h(10,15): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Cache.h(7): message : во время компиляции функции-члена класс шаблон "void Cache<Person>::Add(R)"
+          with
+          [
+              R=Person
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Cache.h(90): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Cache<Person>::Add(R)"
+          with
+          [
+              R=Person
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Cache.h(56,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Cache.h(50): message : во время компиляции функции-члена класс шаблон "int Cache<Person>::SmallestRequest(void)"
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Cache.h(28): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Cache<Person>::SmallestRequest(void)"
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Cache.h(34,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Cache.h(33): message : во время компиляции функции-члена класс шаблон "R Cache<R>::DataofRequest(int)"
+          with
+          [
+              R=Person
+          ]
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Cache.h(30): message : выполняется компиляция ссылки на экземпляр шаблон функции "R Cache<R>::DataofRequest(int)"
+          with
+          [
+              R=Person
+          ]
+  Создание кода...
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(198): warning C4715: Dictionary<int,Person>::GetVal: значение возвращается не при всех путях выполнения
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(198): warning C4715: Dictionary<int,int>::GetVal: значение возвращается не при всех путях выполнения
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(198): warning C4715: Dictionary<Person,int>::GetVal: значение возвращается не при всех путях выполнения
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(198): warning C4715: Dictionary<int,double>::GetVal: значение возвращается не при всех путях выполнения
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(53): warning C4715: Dictionary<int,Person>::Hashfunction: значение возвращается не при всех путях выполнения
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(53): warning C4715: Dictionary<int,int>::Hashfunction: значение возвращается не при всех путях выполнения
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Cache.h(39): warning C4715: Cache<Person>::DataofRequest: значение возвращается не при всех путях выполнения
+C:\Users\Zalman\Desktop\labs3\Lab2\Lab2\Dictionary.h(53): warning C4715: Dictionary<int,double>::Hashfunction: значение возвращается не при всех путях выполнения
+  Lab2.vcxproj -> C:\Users\Zalman\Desktop\labs3\Lab2\Debug\Lab2.exe
